@@ -1,2 +1,2 @@
 # yolov5s-jtbz-npu
-复现在KhadasVIM3上使用tengine部署yolov5s的交通标志识别模型到NPU上，平均推理速度49.83ms
+复现在KhadasVIM3上使用tengine部署yolov5s的交通标志识别模型到NPU上，单张图片平均推理时间49.83ms
